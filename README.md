@@ -21,11 +21,9 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
-
 These scripts were used in data pre-processing, machine learning model training and use, and plotting for the accompanying publication in ES&T Air:
 
-While these scripts interact with data resulting from the dispatch model (found here), they do not include these scripts. 
+While these scripts interact with data resulting from the dispatch model (Simple Dispatch found [here](https://github.com/ericjmei/simple_dispatch_total_emissions)), they do not include these scripts. 
 
 Data are available upon request.
 
@@ -118,7 +116,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Eric Mei - emei3@gatech.edu
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+Project Link: [https://github.com/ericjmei/Accountability\_for\_EST\_air](https://github.com/ericjmei/Accountability_for_EST_air)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
